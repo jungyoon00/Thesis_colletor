@@ -1,3 +1,6 @@
+GitHub: https://github.com/jungyoon00/Thesis_colletor
+Notion: https://www.notion.so/Python-DBpia-54455477b3ee4d20b9e69f86c58df0ba?pvs=4
+
 # 논문 수집 프로그램
 
 * 시작 전 세팅
